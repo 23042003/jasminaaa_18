@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.wrapper{
+	background-color: #2B3968;
+}
+
+.pfeil{
+text-align: center;	
+padding-top: 15px;
+}
+
+.illustration{
+	text-align: right;
+}
+
+.text1{
+	font-family: 'Kiwi Maru';
+	font-size: 50px;
+	color: white;
+	padding-left: 5px;
+}
+
+.hochkant{
+	transform: rotate(0deg); 
+}
